@@ -1,5 +1,7 @@
 <h1>Hello friend👋, I'm Augusto Moscardo.</h1>
 
+- 🔭 I’m currently looking for my first job as a Developer.
+
 <!--
 **augustomoscardo/augustomoscardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
